@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about learning Brain Computer Interaction and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Neural Telepathy and Brain Pattern Recognition System**
-- 
+  
 - 👯 I’m looking to collaborate on **any project relate to AI and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://shradha1304.github.io/](https://shradha1304.github.io/)
