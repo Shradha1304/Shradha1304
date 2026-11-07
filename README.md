@@ -2,12 +2,8 @@
 <h3 align="center">Passionate about learning Brain Computer Interaction and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Neural Telepathy and Brain Pattern Recognition System**
-
-- 🌱 Currently learning **Matlab and PowerBI**
-
+- 
 - 👯 I’m looking to collaborate on **any project relate to AI and Machine learning**
-
-- 🤝 I’m looking for help with **React JS and Web dev**
 
 - 👨‍💻 All of my projects are available at [https://shradha1304.github.io/](https://shradha1304.github.io/)
 
